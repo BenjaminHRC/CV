@@ -1,0 +1,31 @@
+body{
+    background-color: #3a404a;
+}
+
+#base{
+    border: solid;
+    border-color: orange;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#case-1{
+    border: solid;
+    margin-right: 70%;
+    padding-bottom: 15%;
+}
+
+#case-2{
+    border: solid;
+    margin-right: 1067px;
+    margin-top: 1%;
+    padding-bottom: 690px; /*33%*/
+}
+
+/*#case-3{
+    border: solid;
+    margin-left: 475px;
+    margin-top: -757px;
+    padding-bottom: 936px;
+}*/
